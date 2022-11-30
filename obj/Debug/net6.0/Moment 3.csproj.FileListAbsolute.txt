@@ -1,0 +1,15 @@
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.csproj.AssemblyReference.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.AssemblyInfoInputs.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.AssemblyInfo.cs
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.csproj.CoreCompileInputs.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\bin\Debug\net6.0\Moment 3.exe
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\bin\Debug\net6.0\Moment 3.deps.json
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\bin\Debug\net6.0\Moment 3.runtimeconfig.json
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\bin\Debug\net6.0\Moment 3.dll
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\bin\Debug\net6.0\Moment 3.pdb
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.dll
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\refint\Moment 3.dll
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.pdb
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\Moment 3.genruntimeconfig.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Moment 3\obj\Debug\net6.0\ref\Moment 3.dll
